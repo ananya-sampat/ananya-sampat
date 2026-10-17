@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<title>Ananya Sampat — quantitative research, machine learning, and markets</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171321"/><stop offset="1" stop-color="#30203e"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#a99bdc" stop-opacity=".1"/><stop offset="1" stop-color="#e4b7d2"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M 44 0 L 0 0 0 44" fill="none" stroke="#d6c8ed" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+<circle cx="1120" cy="90" r="185" fill="none" stroke="#cab2df" stroke-opacity=".09"/>
+<circle cx="1120" cy="90" r="140" fill="none" stroke="#cab2df" stroke-opacity=".09"/>
+<g fill="none" stroke="url(#line)" stroke-width="2">
+<path d="M760 285 C810 280 800 190 850 205 S910 120 960 145 S1030 75 1070 100 S1150 25 1230 55"/>
+<path d="M760 300 C835 300 840 240 890 250 S960 160 1020 180 S1110 95 1230 110" opacity=".45"/>
+</g>
+<g fill="#e4b7d2"><circle cx="850" cy="205" r="4"/><circle cx="960" cy="145" r="4"/><circle cx="1070" cy="100" r="4"/></g>
+<text x="66" y="85" fill="#c6aedc" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">MATHEMATICS · CODE · MARKETS</text>
+<text x="62" y="166" fill="#faf5ff" font-family="Georgia, 'Times New Roman', serif" font-size="65">Ananya Sampat</text>
+<text x="66" y="218" fill="#d9cde5" font-family="Arial, Helvetica, sans-serif" font-size="22">Quantitative research &amp; machine learning</text>
+<path d="M66 251 H122" stroke="#e4b7d2" stroke-width="3"/>
+<text x="66" y="294" fill="#b7a7c6" font-family="Arial, Helvetica, sans-serif" font-size="16">From mathematical questions to reproducible experiments.</text>
+</svg>
